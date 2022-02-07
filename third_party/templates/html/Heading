@@ -1,0 +1,1 @@
+<h{{.Level}}> {{- .Text | html | js -}} </h{{.Level}}>
